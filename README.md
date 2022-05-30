@@ -30,9 +30,9 @@
 
 ### Connect With Me
 
->Linkedln: &nbsp;&nbsp;&nbsp;  [linkedin.com/nawarajjaishi](https://www.linkedin.com/in/nawarajjaishi)\
->Facebook: &nbsp;&nbsp;  [facebook.com/nawaraj1997](https://www.facebook.com/nawaraj1997)\
->GitLab: &nbsp;&nbsp;&nbsp;   [gitlab.com/nawa_raj](https://gitlab.com/nawa_raj)
+> [Linkedin](https://www.linkedin.com/in/nawarajjaishi)\
+> [Facebook](https://www.facebook.com/nawaraj1997)\
+> [Gitlab](https://gitlab.com/nawa_raj)
 
 
 <!---
